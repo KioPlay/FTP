@@ -1,0 +1,24 @@
+St5ar Traveler
+Clases
+-Aventurero:|sonar minerales|
+-Guerrero:|Escudo desplegable| 
+-Cazador:|Sonar personas|
+-ingeniero:|Scaner ilimitado|
+-Centinela:|robot agrasivo|
+Naves
+--Basico--
+-Moto deslizadora 1p
+--Facil--
+-Planeadoras
+-bugi 2p
+--Normal--
+-Mini nave 2p
+-pequeño submarino 2p
+-Mejora moto a agua
+--Dificil--
+-nave espacial 4p
+-submarino 4p
+-mejora motoa impulso aereo y planeador
+--Muy dificil--
+-Nave interestelar 20 p
+-nave espacial grande 
